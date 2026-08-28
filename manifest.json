@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "Controlador de Gastos Mensuales",
+  "short_name": "Mis Gastos",
+  "description": "Aplicación para controlar ingresos, gastos, presupuestos, gastos fijos y metas de ahorro mensuales.",
+  "lang": "es-CO",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f7fb",
+  "theme_color": "#3157d5",
+  "prefer_related_applications": false,
+  "categories": [
+    "finance",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
